@@ -1,6 +1,7 @@
 # Electroencephalogram-Signal-Classification-for-action-identification
 It is a Convolution-based Neural Network to perform classification on Electroencephalogram signals captured when subjects were exposed to different stimuli. We train a model from scratch since such signal-classification models are fairly scarce in pre-trained format.
 
+
 ## Dataset
 https://www.kaggle.com/datasets/berkeley-biosense/synchronized-brainwave-dataset 
 
