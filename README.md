@@ -3,7 +3,7 @@ It is a Convolution-based Neural Network to perform classification on Electroenc
 
 
 ## Dataset
-https://www.kaggle.com/datasets/berkeley-biosense/synchronized-brainwave-dataset 
+https://www.kaggle.com/datasets/berkeley-biosense/synchronized-brainwave-dataset
 
 ## Output
 ![image](https://github.com/saicharan21-dev/Electroencephalogram-Signal-Classification-for-action-identification/assets/75615707/68ea67d5-33fd-48bf-8cbe-cdb024db0ae1)
